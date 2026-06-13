@@ -132,3 +132,5 @@ streamlit run final-project/app/streamlit_app.py
 ### 4. Coğrafi ve Pozisyonel Riskler
 * **Yüksek Riskli Lokasyonlar:** New Westminister (%17.3) ve Pitt Meadows (%15.8) şehirlerinde istifa oranları şirket ortalamasının 5 katından fazladır.
 * **Yüksek Riskli Pozisyonlar:** Director (Labor Relations, Investments, Compensation) unvanına sahip personeller %25 istifa oranına sahiptir.
+
+https://github.com/ahmethaktanerd/-K-al-an-stifa-Churn-Tahmini-ve-Karar-Destek-Sistemi
