@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+joblib
+plotly
+matplotlib
+seaborn
+streamlit
+reportlab
+prettytable
+kaleido
