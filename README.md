@@ -126,7 +126,7 @@ streamlit run final-project/app/streamlit_app.py
 
 ### 3. Karar Eşiği Optimizasyonu (Threshold Tuning)
 * **Varsayılan Eşik (0.50):** Net Tasarruf = **$1,503,000**
-* **Optimum Karar Eşiği (0.10):** Net Tasarruf = **$1,872,000**
+* **Optimum Karar Eşiği (0.10):** Net Tasarruf = **$2,055,000**
 * **Ek Ekonomik Değer:** Eşik optimizasyonu sayesinde İK departmanı ek olarak **$369,000** bütçe tasarrufu elde etmektedir.
 
 ### 4. Coğrafi ve Pozisyonel Riskler
